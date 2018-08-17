@@ -3,7 +3,6 @@ public class Team {
     private String teamName;
     String[] participant;
 
-    //конструктор класса
     public Team(String teamName, String[] participant) {
         this.teamName = teamName;
         this.participant = participant;
